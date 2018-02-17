@@ -493,3 +493,7 @@ input[type=checkbox] {
 *:focus {
     outline: none;
 }
+
+input[type=submit] {
+    font-family: 'Lato', 'Arial', sans-serif;
+}
